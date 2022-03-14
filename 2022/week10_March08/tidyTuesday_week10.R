@@ -139,4 +139,4 @@ ggf <- ggmap_erasmus +
   inset_element(ggrecei + ggnatio, left = 0.6, bottom = 0.1, right = 0.95, top = 0.7)
 
 plot.nam <- paste0("tidyTuesday_week10.png")
-ggsave(plot.nam, ggf, dpi = 320, height = 15, width = 25)
+ggsave(plot.nam, ggf, dpi = 320, height = 8.6, width = 13)
